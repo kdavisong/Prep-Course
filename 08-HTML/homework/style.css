@@ -1,0 +1,7 @@
+<style media="screen">
+  h1{color: red}
+  #thirdDiv{background-color: orange; heigth: 550px; width: 600px;padding: 30px; border: 10px dotted red}
+  #spanId{
+    font-size: 18px; color:green;margin: 10px;
+  }
+</style>
